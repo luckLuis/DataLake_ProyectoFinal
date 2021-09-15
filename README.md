@@ -124,6 +124,37 @@ Una vez establecida las configuraciones podemos dar un vistaso previo a la tabla
 
 ![image](https://user-images.githubusercontent.com/58041699/131235219-351a6b02-39e1-4977-9bd3-f2a4e95f3f92.png)
 
+* Facebook --- COUCHDB
+
+1. Se raliza la importación de las respectivas librerias
+
+![librerias](https://user-images.githubusercontent.com/58050574/133524002-bf673cac-152d-482e-8d79-410d24edad7f.png)
+
+2. Se crea la base de datos y establece la conexión
+
+![conexion](https://user-images.githubusercontent.com/58050574/133524776-375ab18c-78db-4bb0-8faf-4c5517b28417.png)
+
+3. Se procede a realizar la extracción de los datos los cuales seran guardados en la base de datos
+
+![extraccionDatos](https://user-images.githubusercontent.com/58050574/133524971-a0bd8741-fbc1-4953-a481-7f454a02e41e.png)
+
+4. Una vez recopilado los datos podemos verlos en couchdb tanto la base de datos steam como el numero de documentos los cuales se presentan en formato json
+
+![couchdbSteam](https://user-images.githubusercontent.com/58050574/133525283-65087722-6544-4b6c-a03d-0dc9ac67bec6.png)
+
+![BDSteam](https://user-images.githubusercontent.com/58050574/133525374-6df5663a-fa0d-447e-bc1d-920323bc4ef8.png)
+
+![Steamjson](https://user-images.githubusercontent.com/58050574/133525549-5915d092-be2e-47df-ba3a-f49ab5800197.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
