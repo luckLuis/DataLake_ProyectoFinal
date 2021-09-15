@@ -3,7 +3,7 @@
 
 # In[2]:
 
-
+#librerias
 from facebook_scraper import get_posts
 import couchdb
 import json
@@ -12,7 +12,7 @@ import time
 
 # In[3]:
 
-
+#creacion de base de datos y conexion con couchdb
 couch=couchdb.Server('http://sebas:18102412@127.0.0.1:5984')
 db=couch.create('steam')
 nombredb='steam'
@@ -21,7 +21,7 @@ db=couch[nombredb]
 
 # In[4]:
 
-
+#recopilacion de datos
 i=1
 for post in get_posts('Steam', pages=1000, extra_info=True):
     print(i)
@@ -55,26 +55,6 @@ for post in get_posts('Steam', pages=1000, extra_info=True):
     except Exception as e:    
         print("no se pudo grabar:" + str(e))
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
