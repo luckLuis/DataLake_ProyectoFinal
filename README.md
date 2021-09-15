@@ -98,7 +98,7 @@ Una vez establecida las configuraciones podemos dar un vistaso previo a la tabla
 
 # SCRIPTS -- BD NOSQL
 
-# WebScraping --- MONGODB
+* WebScraping --- MONGODB
 
 1. Se empieza estableciendo la conexión con mongodb mediante pymongo y se hace la importación de las respectivas herramientas
 
