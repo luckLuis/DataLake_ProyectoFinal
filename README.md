@@ -1,5 +1,15 @@
 # DataLake_ProyectoFinal
 
+# Integrantes
+
+* Miguel Cuenca
+* Luis Jacome
+* Kevin Morales
+* Roberth Pincha
+* Carlos Quel
+* Sebastian Valencia
+* Michael Valenzuela
+
 # Proyecto Final Análisis de datos
 
 Diseñar una arquitectura de Data Lake en la cual tenga el insumo de datos de al menos las siguientes fuentes:
