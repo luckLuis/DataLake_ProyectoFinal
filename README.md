@@ -33,11 +33,11 @@ Cada caso de estudio debe tener su propio dashboard y de todo el proyecto al men
 
 # SCRIPTS -- BD SQL
 
-* SQL LITE - TIKTOK
+* SQL LITE --- TIKTOK
 
 ![image](https://user-images.githubusercontent.com/58041699/133362509-725d8840-3013-4a63-9685-f35397f7c9bc.png)
 
-* SQL LITE - KAGGLE(CSV)
+* SQL LITE --- KAGGLE(CSV)
 
 En la pagina de KAGGLE podemos contar con dataset's de una gran variedad de temas, para esta practica haremos uso de un dataset sobre las variantes del covid.
 
@@ -52,6 +52,19 @@ Ese dataset que adquirimos podemos trasladarlo a un gestor base de datos como sq
 
 Una vez importada la data, ya hemos conseguido una BD SQL donde podemos observar las dominios de cada columnas.
 ![image](https://user-images.githubusercontent.com/58041699/133370878-3eba2c9e-861e-493c-aef6-9ab3f1534a2a.png)
+
+* MYSQL-(PHPMYADMIN) --- INEC
+
+Dentro de la pagina oficial del Instituto Nacional de Estadística y Censos, podemos encontrar informacion a nivel demografico, educacional, salud y bienestar, economia, agricultura, ambiental y entre otros acerca de estado de nuestro Pais.
+![image](https://user-images.githubusercontent.com/58041699/133373411-6fd4e9fa-8cc9-485c-84e9-246b14631f83.png)
+
+De esta manera usaremos datos del INCE para realizar la practica. El tema trata del Índice de Nivel de Actividad Registrada (INA-R) donde extreremos el desempeño económico-fiscal de los sectores productivos de la economía nacional entre el año 2016
+
+![image](https://user-images.githubusercontent.com/58041699/133374678-c8d94add-8d02-4330-8312-3e8125817327.png)
+
+
+
+
 
 
 
