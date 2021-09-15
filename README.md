@@ -35,6 +35,10 @@ Cada caso de estudio debe tener su propio dashboard y de todo el proyecto al men
 
 * SQL LITE - TIKTOK
 
+![image](https://user-images.githubusercontent.com/58041699/133362509-725d8840-3013-4a63-9685-f35397f7c9bc.png)
+
+
+
 
 # SCRIPTS -- BD NOSQL
 
