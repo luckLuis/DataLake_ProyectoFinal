@@ -73,6 +73,24 @@ De esta manera usaremos datos del INCE para realizar la practica. El tema trata 
 ![image](https://user-images.githubusercontent.com/58041699/133374678-c8d94add-8d02-4330-8312-3e8125817327.png)
 
 
+En nuestro gesto de Base de datos MYSQL vamos a integrar este csv y realizamos las configuraciones pertinentes para su integracion.
+
+![image](https://user-images.githubusercontent.com/58041699/133385694-981bf8ae-d6fc-4d83-89e1-7a1872e584c1.png)
+
+
+![image](https://user-images.githubusercontent.com/58041699/133385759-1f73137f-a9b9-48a7-83d1-f0a06753403c.png)
+
+Una vez establecida las configuraciones podemos dar un vistaso previo a la tabla con los datos del csv y la base de datos creada.
+
+![image](https://user-images.githubusercontent.com/58041699/133385878-34dd6d52-6fd9-4e02-a4f4-34d87ed2557e.png)
+
+![image](https://user-images.githubusercontent.com/58041699/133386150-4aad8803-c0b9-45ce-9cb6-8141c229fb08.png)
+
+
+
+
+
+
 
 
 
