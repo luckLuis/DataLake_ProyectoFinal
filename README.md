@@ -146,6 +146,27 @@ Una vez establecida las configuraciones podemos dar un vistaso previo a la tabla
 
 ![Steamjson](https://user-images.githubusercontent.com/58050574/133525549-5915d092-be2e-47df-ba3a-f49ab5800197.png)
 
+5. Vistas
+5.1 Para la primera vista imprimimos una clave designada “Steam”
+
+![vista1indx1](https://user-images.githubusercontent.com/58050574/133539805-84c5d54a-59b0-4921-88e6-1a371fda7351.png)
+
+![vista1indx1(2)](https://user-images.githubusercontent.com/58050574/133539821-3375138d-0cf6-4d9e-a80f-8ebaf75f00dd.png)
+
+5.2 Para la segunda vista se busco entre los datos de texto los que contengan “PC” y “play”
+
+![vista2indx1](https://user-images.githubusercontent.com/58050574/133539921-61f80d57-c79c-46e0-af75-1cc50ee6b7f8.png)
+
+![vista2indx2(1)](https://user-images.githubusercontent.com/58050574/133539927-f52db92e-1768-464f-ba78-0bb9147e039e.png)
+
+![vista2indx2(2)](https://user-images.githubusercontent.com/58050574/133539935-db751d52-484e-4989-8987-5a47e6faf511.png)
+
+5.3 Para la tercera vista se aplico la función reduce para calcular el numero de ocurrencias de la palabra “buy” y “new” en el texto
+
+![vista3indx1(1)](https://user-images.githubusercontent.com/58050574/133540207-c4228932-033c-4a84-977d-cd11e0260e1f.png)
+
+![vista3indx1(2)](https://user-images.githubusercontent.com/58050574/133540266-228d94ed-41f8-421f-a6c7-a83c30a654e2.png)
+
 
 
 
