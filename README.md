@@ -159,3 +159,11 @@ Una vez establecida las configuraciones podemos dar un vistaso previo a la tabla
 
 
 # ELASTICSEARCH -- CONCENTRADOR DE DATOS
+
+
+# VISUALIZACION - (POWER BI, KIBANA)
+
+* Power BI
+
+![image](https://user-images.githubusercontent.com/58041699/133537130-6cb1fbdf-f2c8-44c9-b98f-dc1a2e8ad225.png)
+
