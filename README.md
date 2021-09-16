@@ -147,6 +147,7 @@ Una vez establecida las configuraciones podemos dar un vistaso previo a la tabla
 ![Steamjson](https://user-images.githubusercontent.com/58050574/133525549-5915d092-be2e-47df-ba3a-f49ab5800197.png)
 
 5. Vistas
+
 5.1 Para la primera vista imprimimos una clave designada “Steam”
 
 ![vista1indx1](https://user-images.githubusercontent.com/58050574/133539805-84c5d54a-59b0-4921-88e6-1a371fda7351.png)
