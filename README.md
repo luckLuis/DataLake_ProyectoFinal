@@ -163,6 +163,8 @@ Una vez establecida las configuraciones podemos dar un vistaso previo a la tabla
 
 5.3 Para la tercera vista se aplico la función reduce para calcular el numero de ocurrencias de la palabra “buy” y “new” en el texto
 
+![vista3indx1](https://user-images.githubusercontent.com/58050574/133540388-e0c7f8ce-d266-442b-8ad7-2265d0214e41.png)
+
 ![vista3indx1(1)](https://user-images.githubusercontent.com/58050574/133540207-c4228932-033c-4a84-977d-cd11e0260e1f.png)
 
 ![vista3indx1(2)](https://user-images.githubusercontent.com/58050574/133540266-228d94ed-41f8-421f-a6c7-a83c30a654e2.png)
